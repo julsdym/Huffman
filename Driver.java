@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * This class is designed to test each step of the huffman coding process when run
  * 
- * @author Ishaan Ivaturi
+ * @author Julia Dymnicki
  */
 public class Driver {
     public static void main(String[] args) {
