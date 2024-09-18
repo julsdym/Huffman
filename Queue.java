@@ -5,7 +5,7 @@ package huffman;
  * isEmpty, size, enqueue, dequeue, and peek. It is implemented
  * using a circular linked list.
  * 
- * @author Ishaan Ivaturi
+ * @author Julia Dymnicki
  */
 public class Queue<T> {
     private Node<T> back;
