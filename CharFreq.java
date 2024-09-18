@@ -4,8 +4,7 @@ package huffman;
  * This class contains a character object, and a double representing
  * its probability of occurrence
  * 
- * @author Ishaan Ivaturi
- * @author Prince Rawal
+ * @author Julia Dymnicki
  */
 public class CharFreq implements Comparable<CharFreq> {
     private Character character;
