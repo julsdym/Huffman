@@ -10,8 +10,7 @@ import java.util.Collections;
  * This class contains methods which, when used together, perform the
  * entire Huffman Coding encoding and decoding process
  * 
- * @author Ishaan Ivaturi
- * @author Prince Rawal
+ * @author Julia Dymnicki
  */
 public class HuffmanCoding {
     private String fileName;
